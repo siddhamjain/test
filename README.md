@@ -1,1 +1,1 @@
-# c9-STUD-TEACHER
+out put  https://siddhamjain.github.io/test/
